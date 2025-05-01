@@ -1,7 +1,7 @@
 {
   "users": [
-    { "username": "admin", "password": "4487112910", "coins": 999999999999999999999 },
-    { "username": "jillybob", "password": "bobby", "coins": 50 },
-    { "username": "blake", "password": "4487112910", "coins": 20 }
+    { "username": "admin", "password": "4487112910", "coins": 100, "upgradeLevel": 0 },
+    { "username": "user1", "password": "4487112910", "coins": 50, "upgradeLevel": 1 },
+    { "username": "test", "password": "4487112910", "coins": 0, "upgradeLevel": 0 }
   ]
 }
